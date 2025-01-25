@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# venve
+venv_text_to_sql/
+
+
 # Distribution / packaging
 .Python
 build/
