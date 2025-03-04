@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    Bharatbhushan:
+      name: "Bharatbhushan"
+      email: "bkbhushan111@gmail.com"
+      password: "$2b$12$UbBcvcETAZYiRZWTrB14tuBVM7Hq9M9AarvIFnPjZCjLo4CZg01KO"
+
+    aiwalabro:
+      name: "aiwalabro"
+      email: "aiwalabro@gmail.com"
+      password: "$2b$12$xSvTZ4tJoyh/AC/VDYrE0eqMU.5mZhs.RLo9JUsjoUAd1f4T6KmkG"
+
+  cookie:
+    expiry_days: 7
+    key: random_signature_key # Must be string
+    name: random_cookie_name
+
+  preauthorized:
+    emails: "bkbhushan111@gmail.com"
